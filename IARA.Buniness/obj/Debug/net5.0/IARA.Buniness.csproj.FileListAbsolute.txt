@@ -1,0 +1,15 @@
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/bin/Debug/net5.0/IARA.Buniness.deps.json
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/bin/Debug/net5.0/IARA.Buniness.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/bin/Debug/net5.0/IARA.Buniness.pdb
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/bin/Debug/net5.0/IARA.Domain.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/bin/Debug/net5.0/IARA.Domain.pdb
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.csproj.AssemblyReference.cache
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.AssemblyInfoInputs.cache
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.AssemblyInfo.cs
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.csproj.CoreCompileInputs.cache
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.csproj.CopyComplete
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/refint/IARA.Buniness.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/IARA.Buniness.pdb
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Buniness/obj/Debug/net5.0/ref/IARA.Buniness.dll

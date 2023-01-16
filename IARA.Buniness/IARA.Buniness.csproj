@@ -1,0 +1,60 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Class1.cs" />
+    <Compile Remove="CotacaoBusiness\BuscarTodasCotacoes\ListarTodasCotacoesValidar.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Remove="CotacaoBusiness\" />
+    <None Remove="CotacaoBusiness\SalvarCotacao\" />
+    <None Remove="FluentValidation" />
+    <None Remove="Flurl.Http" />
+    <None Remove="MediatR.Extensions.Microsoft.DependencyInjection" />
+    <None Remove="Microsoft.AspNetCore.Http.Abstractions" />
+    <None Remove="Microsoft.Extensions.Configuration.Abstractions" />
+    <None Remove="Microsoft.Extensions.DependencyInjection" />
+    <None Remove="Microsoft.Extensions.Http" />
+    <None Remove="Microsoft.Extensions.Options" />
+    <None Remove="Microsoft.Extensions.Options.ConfigurationExtensions" />
+    <None Remove="Uteis\" />
+    <None Remove="Services\" />
+    <None Remove="Services\ViaCep\" />
+    <None Remove="RestSharp" />
+    <None Remove="ServiceStack.Text" />
+    <None Remove="CotacaoBusiness\BuscarCotacao\" />
+    <None Remove="CotacaoBusiness\BuscarTodasCotacoes\" />
+    <None Remove="CotacaoBusiness\ExcluirCotacao\" />
+    <None Remove="CotacaoBusiness\AtualizarCotacao\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CotacaoBusiness\" />
+    <Folder Include="CotacaoBusiness\SalvarCotacao\" />
+    <Folder Include="Uteis\" />
+    <Folder Include="Services\" />
+    <Folder Include="Services\ViaCep\" />
+    <Folder Include="CotacaoBusiness\BuscarCotacao\" />
+    <Folder Include="CotacaoBusiness\BuscarTodasCotacoes\" />
+    <Folder Include="CotacaoBusiness\ExcluirCotacao\" />
+    <Folder Include="CotacaoBusiness\AtualizarCotacao\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="FluentValidation" Version="11.4.0" />
+    <PackageReference Include="Flurl.Http" Version="3.2.4" />
+    <PackageReference Include="MediatR.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Http.Abstractions" Version="2.2.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.DependencyInjection" Version="5.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Http" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options" Version="5.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Options.ConfigurationExtensions" Version="5.0.0" />
+    <PackageReference Include="RestSharp" Version="108.0.3" />
+    <PackageReference Include="ServiceStack.Text" Version="6.5.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\IARA.Domain\IARA.Domain.csproj" />
+  </ItemGroup>
+</Project>

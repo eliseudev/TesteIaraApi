@@ -1,0 +1,12 @@
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/bin/Debug/net5.0/IARA.Domain.deps.json
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/bin/Debug/net5.0/IARA.Domain.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/bin/Debug/net5.0/IARA.Domain.pdb
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.csproj.AssemblyReference.cache
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.AssemblyInfoInputs.cache
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.AssemblyInfo.cs
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.csproj.CoreCompileInputs.cache
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/refint/IARA.Domain.dll
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/IARA.Domain.pdb
+/Users/eliseuoliveira/Projects/IARATeste/IARA.Domain/obj/Debug/net5.0/ref/IARA.Domain.dll
